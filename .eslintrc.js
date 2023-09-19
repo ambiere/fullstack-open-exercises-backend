@@ -4,6 +4,7 @@ module.exports = {
     es2021: true,
   },
   extends: "eslint:recommended",
+  ignorePatterns: ["/exercises/**/dist/"],
   overrides: [
     {
       env: {
@@ -20,4 +21,4 @@ module.exports = {
     sourceType: "module",
   },
   rules: {},
-};
+}

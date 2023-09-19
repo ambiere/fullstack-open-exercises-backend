@@ -1,6 +1,6 @@
-# Fullstack open exercises backend
+<h2 align="center">Backend: Fullstack open exercises</h2>
 
-Solution to part 3 fullstack open exercises: Programming a server with NodeJS and Express.
+<p align="center">Solution to part 3 fullstack open exercises: Programming a server with NodeJS and Express.</p>
 
 ### Table of Contents
 

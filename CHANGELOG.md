@@ -1,3 +1,10 @@
+## [0.3.0](https://github.com/zhid0399123/fullstack-open-exercises-backend/compare/0.2.0...0.3.0) (2023-09-19)
+
+
+### Features
+
+* **dotenv:** added dotenv ([3072763](https://github.com/zhid0399123/fullstack-open-exercises-backend/commit/307276358d20f57baa1c98bdb8bf54cb35f3cb29))
+
 ## [0.2.0](https://github.com/zhid0399123/fullstack-open-exercises-backend/compare/0.1.0...0.2.0) (2023-09-19)
 
 
